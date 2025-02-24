@@ -51,13 +51,13 @@ Este curso está diseñado para llevarte desde los conceptos más básicos hasta
 
 Markdown es un lenguaje de marcado ligero creado por John Gruber y Aaron Swartz en 2004. Su objetivo principal es permitir a las personas escribir texto con formato utilizando una sintaxis sencilla y fácil de leer, que luego puede convertirse a HTML.
 
-![Creadores de Markdown](https://i.imgur.com/3CSaoSH.png "John Gruber y Aaron Swartz, creadores de Markdown")
+![Creadores de Markdown](https://upload.wikimedia.org/wikipedia/commons/e/e6/Aaron_Swartz_profile.jpg "Aaron Swartz, uno de los creadores de Markdown")
 
 El nombre "Markdown" es un juego de palabras con "markup" (marcado), sugiriendo que es una versión simplificada de los lenguajes de marcado tradicionales.
 
 La filosofía detrás de Markdown es que el texto formateado debería ser legible sin que los símbolos de formato interfieran con la lectura, a diferencia de lo que ocurre con el HTML.
 
-![Comparación entre Markdown y HTML](https://i.imgur.com/1YtiTRR.png "Comparativa de sintaxis: Markdown vs HTML")
+![Comparación entre Markdown y HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Plain_Text_and_Markdown_Source_Code_%28Example%29.svg/1200px-Plain_Text_and_Markdown_Source_Code_%28Example%29.svg.png "Comparativa: texto plano vs Markdown")
 
 ## ¿Por qué usar Markdown?
 
@@ -81,7 +81,7 @@ Markdown ofrece numerosas ventajas que lo han convertido en una herramienta popu
 
 Vamos a aprender los elementos fundamentales de Markdown que te permitirán formatear la mayoría de tus documentos.
 
-![Comparación de Markdown y su resultado HTML](https://d33wubrfki0l68.cloudfront.net/75cdd78aba218a9abbfe91d2ba2cf540a7502d8c/553fa/assets/images/markdown-flowchart.png "Flujo de trabajo de Markdown")
+![Comparación de Markdown y su resultado HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Markdown_flowchart.svg/825px-Markdown_flowchart.svg.png "Flujo de trabajo de Markdown")
 
 ### Encabezados
 
@@ -256,7 +256,7 @@ La sintaxis para insertar imágenes es similar a la de los enlaces, pero con un 
 
 Esto se visualizaría así (ejemplo con una imagen real):
 
-![Logo de Markdown](https://markdown-here.com/img/icon256.png "Logo de Markdown")
+![Logo de Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg "Logo de Markdown")
 
 **Imágenes con referencia**:
 
@@ -282,7 +282,7 @@ También puedes hacer que una imagen funcione como un enlace:
 
 Por ejemplo, esta imagen es un enlace que te llevaría a la página oficial de Markdown:
 
-[![Logo de Markdown](https://markdown-here.com/img/icon128.png)](https://daringfireball.net/projects/markdown/)
+[![Logo de Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)](https://daringfireball.net/projects/markdown/)
 
 ### Citas
 
@@ -336,7 +336,7 @@ def hello_world():
 O especificando el lenguaje para resaltado de sintaxis:
 
 ````markdown
-```python
+```
 def hello_world():
     print("Hello, World!")
 ```
@@ -389,8 +389,6 @@ Que se visualiza así:
 | Celda 1,1   | Celda 1,2   | Celda 1,3   |
 | Celda 2,1   | Celda 2,2   | Celda 2,3   |
 
-![Proceso de creación de tablas en Markdown](https://i.imgur.com/5yQTHMz.png "Ejemplo de tabla en Markdown")
-
 **Alineación de columnas**:
 
 Puedes alinear el texto en las columnas usando `:`:
@@ -422,8 +420,6 @@ Que se visualiza así:
 - [x] Tarea completada
 - [ ] Tarea pendiente
 - [ ] Otra tarea pendiente
-
-![Listas de tareas en GitHub](https://i.imgur.com/IxOQvpK.png "Listas de tareas en un issue de GitHub")
 
 ### Texto tachado
 
@@ -477,8 +473,6 @@ Distintas plataformas han ampliado Markdown con características adicionales.
 
 GitHub utiliza su propia versión de Markdown con características como:
 
-![GitHub Flavored Markdown](https://i.imgur.com/Aju8XOB.png "GitHub Flavored Markdown en acción")
-
 - Menciones a usuarios: `@usuario`
 - Referencias a issues y pull requests: `#123`
 - Emojis: `:smile:`
@@ -486,8 +480,6 @@ GitHub utiliza su propia versión de Markdown con características como:
 - Tablas
 - Bloqueo de código con resaltado de sintaxis
 - Autoenlaces para URLs
-
-![Características de GitHub Markdown](https://i.imgur.com/kG1Z2C7.png "Menciones de usuarios y referencias a issues en GitHub")
 
 ### GitLab Flavored Markdown
 
@@ -545,17 +537,9 @@ Hay que tener en cuenta que algunas implementaciones pueden restringir qué etiq
 
 Existen muchos editores específicos para Markdown:
 
-![Editores de Markdown populares](https://i.imgur.com/XmXCz9q.png "Comparativa de editores de Markdown")
-
 - **Typora**: Editor WYSIWYG (lo que ves es lo que obtienes)
-  ![Typora Editor](https://typora.io/img/new/image.png "Interfaz de Typora")
-  
 - **MarkText**: Editor de código abierto
-  ![MarkText Editor](https://raw.githubusercontent.com/marktext/marktext/develop/docs/marktext.png "Interfaz de MarkText")
-  
-- **Obsidian**: Perfecto para tomar notas y crear bases de conocimiento
-  ![Obsidian](https://obsidian.md/images/screenshot.png "Interfaz de Obsidian")
-  
+- **Obsidian**: Perfecto para tomar notas y crear bases de conocimiento  
 - **Zettlr**: Enfocado en académicos
 - **iA Writer**: Minimalista, disponible para múltiples plataformas
 
@@ -611,8 +595,6 @@ Para usar Markdown de forma efectiva:
 ## Ejercicios prácticos
 
 Para practicar lo que has aprendido, intenta estos ejercicios:
-
-![Práctica de Markdown](https://i.imgur.com/sj9QXbV.jpg "Convierte tus conocimientos en práctica")
 
 ### Ejercicio 1: Documento básico
 
