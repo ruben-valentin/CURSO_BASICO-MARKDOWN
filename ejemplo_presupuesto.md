@@ -1,7 +1,7 @@
 
-![Presupuesto PC](URL_DE_LA_IMAGEN)
+![Presupuesto PC](header.png)
 
-
+# 1º PC
 
 | Tipo de Componente | Componente                                                                                           | Precio           | URL |
 |--------------------|------------------------------------------------------------------------------------------------------|------------------|-----|
