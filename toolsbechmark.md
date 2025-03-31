@@ -92,3 +92,91 @@
 
 - **UserBenchmark:** Benchmark comparativo en línea.
   [Página oficial](https://www.userbenchmark.com/)
+
+
+  # 🔥 Mejores herramientas para pruebas de rendimiento
+
+## 🚀 CPU (Procesador)
+
+- **[Cinebench](https://www.maxon.net/cinebench)**  
+  Muy efectiva para medir rendimiento bruto en renderizados, especialmente útil con múltiples núcleos.
+
+- **[Prime95](https://www.mersenne.org/download/)**  
+  Ideal para pruebas extremas de estrés y estabilidad en escenarios de overclocking.
+
+- **[AIDA64 Extreme](https://www.aida64.com/products/aida64-extreme)**  
+  Suite completa para diagnóstico y estabilidad, especialmente recomendada en entornos profesionales.
+
+- **[Geekbench](https://www.geekbench.com/)**  
+  Perfecta para comparativas multiplataforma, adecuada para diferentes sistemas operativos.
+
+---
+
+## 🎮 GPU (Tarjeta Gráfica)
+
+- **[3DMark](https://benchmarks.ul.com/3dmark)**  
+  El estándar entre gamers y entusiastas, ofrece escenarios realistas para pruebas gráficas.
+
+- **[Unigine Superposition](https://benchmark.unigine.com/superposition)**  
+  Exigente y avanzada, excelente para identificar límites térmicos y rendimiento máximo.
+
+- **[FurMark](https://geeks3d.com/furmark/)**  
+  Recomendable para pruebas extremas de estrés térmico y estabilidad en GPUs.
+
+- **[MSI Afterburner](https://www.msi.com/page/afterburner)**  
+  Herramienta imprescindible para overclocking y monitoreo de GPU en tiempo real.
+
+---
+
+## 💾 RAM (Memoria)
+
+- **[MemTest86](https://www.memtest86.com/)**  
+  Herramienta por excelencia, profunda y confiable para diagnóstico de errores en RAM.
+
+- **[MemTest64](https://www.techpowerup.com/memtest64/)**  
+  Práctica y rápida para pruebas básicas sin necesidad de reiniciar el sistema.
+
+- **[LinX](https://linx.en.lo4d.com/windows)**  
+  Excelente para verificar estabilidad conjunta CPU-RAM bajo cargas intensivas.
+
+---
+
+## 📀 Almacenamiento (SSD y HDD)
+
+- **[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)**  
+  Clara, sencilla y rápida para obtener mediciones reales de velocidades de escritura y lectura.
+
+- **[HD Tune](https://www.hdtune.com/)**  
+  Completa para análisis exhaustivos sobre rendimiento, errores y estado general de salud del disco.
+
+---
+
+## ⚙️ Evaluación General del Sistema
+
+- **[PCMark](https://benchmarks.ul.com/pcmark10)**  
+  Muy recomendada para obtener una visión clara del rendimiento global en tareas cotidianas.
+
+- **[SiSoftware Sandra Lite](https://www.sisoftware.co.uk/sandra/)**  
+  Suite exhaustiva y detallada para pruebas y diagnósticos variados de componentes del sistema.
+
+- **[Novabench](https://novabench.com/)**  
+  Alternativa ligera, sencilla y rápida para análisis general.
+
+- **[UserBenchmark](https://www.userbenchmark.com/)**  
+  Adecuada para comparativas rápidas entre configuraciones similares, aunque controversial por posibles sesgos.
+
+---
+
+## 🌟 Conclusión y recomendaciones finales
+
+- **Uso básico y rapidez:**  
+  Escoge herramientas gratuitas y sencillas como **Cinebench**, **CrystalDiskMark** o **MemTest64**.
+
+- **Uso profesional o avanzado:**  
+  Considera opciones más completas como **AIDA64 Extreme**, **3DMark** (versión completa), o suites integrales como **PCMark**.
+
+- **Para Overclocking o hardware nuevo:**  
+  Prioriza herramientas robustas como **Prime95**, **OCCT** o **MemTest86**.
+
+
+
